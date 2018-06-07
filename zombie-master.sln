@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zombie-master", "zombie-master.csproj", "{896BD5E1-4E33-B128-6AAC-900995CA3777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zombie-master.Editor", "zombie-master.Editor.csproj", "{47FFFDEC-68B5-51FE-B78E-9C81BB5055D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896BD5E1-4E33-B128-6AAC-900995CA3777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896BD5E1-4E33-B128-6AAC-900995CA3777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896BD5E1-4E33-B128-6AAC-900995CA3777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896BD5E1-4E33-B128-6AAC-900995CA3777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FFFDEC-68B5-51FE-B78E-9C81BB5055D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FFFDEC-68B5-51FE-B78E-9C81BB5055D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FFFDEC-68B5-51FE-B78E-9C81BB5055D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FFFDEC-68B5-51FE-B78E-9C81BB5055D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
