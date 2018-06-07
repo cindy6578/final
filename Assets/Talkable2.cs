@@ -6,7 +6,7 @@ public class Talkable2 : MonoBehaviour
 {
     void OnTriggerEnter()
     {
-        Flowchart.BroadcastFungusMessage("辦公桌");
+        Flowchart.BroadcastFungusMessage("doctor");
     }
 }
 
