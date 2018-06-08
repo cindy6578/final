@@ -764,6 +764,10 @@
     <Compile Include="Assets\Fungus\Thirdparty\Usfxr\Scripts\SfxrSynth.cs" />
     <Compile Include="Assets\FungusExamples\FungusLua\Bindings\CustomScript.cs" />
     <Compile Include="Assets\FungusExamples\MonoBehEvents\SpriteColorChangeFromFungusMouseEvent.cs" />
+    <Compile Include="Assets\Head Look Controller\Scripts\CursorHit.cs" />
+    <Compile Include="Assets\Head Look Controller\Scripts\HeadLookController.cs" />
+    <Compile Include="Assets\Head Look Controller\Scripts\HelpText.cs" />
+    <Compile Include="Assets\Head Look Controller\Scripts\OrbitCamera.cs" />
     <Compile Include="Assets\move.cs" />
     <Compile Include="Assets\sharder.cs" />
     <Compile Include="Assets\Talkable.cs" />
