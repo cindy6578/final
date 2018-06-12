@@ -9,8 +9,6 @@ public class Talkable2 : MonoBehaviour
 
         Flowchart.BroadcastFungusMessage("doctor");
 
-        Flowchart.BroadcastFungusMessage("對講機");
-
     }
 }
 
